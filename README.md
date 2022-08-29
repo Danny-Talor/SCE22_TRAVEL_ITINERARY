@@ -3,7 +3,10 @@
 Forked from https://github.com/Sagieke/travelist 
 
 Web application to list your travel destinations and locations.
-Uses React - Javascript for the front with Flask - Python for the backend, with SQLite as a database.
+Uses:
+React - Javascript for the frontend
+Flask - Python for the backend
+SQLite as a database.
 
 ## server initialization
 
