@@ -1,0 +1,26 @@
+export const SliderData = [
+    {
+      image:
+        'https://i.postimg.cc/zXhxJXrR/image.png'
+    },
+    {
+      image:
+      'https://i.postimg.cc/SNtmpdmK/1.png'
+    },
+    {
+      image:
+      'https://i.postimg.cc/R0Yr1z79/template.png'
+    },
+    {
+      image:
+      'https://i.postimg.cc/tgJQVgV2/dates.png'
+    },
+    {
+      image:
+      'https://i.postimg.cc/Kz36JsfT/list-of-lists.png'
+    },
+    {
+      image:
+      'https://i.postimg.cc/j2VG9Q3F/places-page.png'
+    },
+    ];
